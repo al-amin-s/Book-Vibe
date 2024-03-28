@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Iliad",
+      "author": "Homer",
+      "image": "https://i.ibb.co/wKvb9pv/700.jpg",
+      "review": "An epic poem depicting the Trojan War and the Greek hero Achilles' anger.",
+      "totalPages": 683,
+      "rating": 4.2,
+      "category": "Classic Literature",
+      "tags": ["Epic", "Poetry", "War"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": -750
+    },
+    {
+      "bookId": 2,
+      "bookName": "The Art of War",
+      "author": "Sun Tzu",
+      "image": "https://i.ibb.co/7G0dryq/762.jpg",
+      "review": "An ancient Chinese military treatise outlining strategies and tactics for warfare.",
+      "totalPages": 93,
+      "rating": 4.6,
+      "category": "Military Strategy",
+      "tags": ["Strategy", "Tactics", "Leadership"],
+      "publisher": "Dover Publications",
+      "yearOfPublishing": -500
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Republic",
+      "author": "Plato",
+      "image": "https://i.ibb.co/s6DyXy7/old-book-wooden-table.jpg",
+      "review": "A Socratic dialogue written by Plato, exploring justice, the ideal state, and the philosopher's role.",
+      "totalPages": 385,
+      "rating": 4.3,
+      "category": "Philosophy",
+      "tags": ["Philosophy", "Politics", "Justice"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": -380
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Analects",
+      "author": "Confucius",
+      "image": "https://i.ibb.co/BcpStgw/pd109-pdobj00657a-image.jpg",
+      "review": "A collection of sayings and ideas attributed to the Chinese philosopher Confucius.",
+      "totalPages": 160,
+      "rating": 4.4,
+      "category": "Philosophy",
+      "tags": ["Wisdom", "Ethics", "Confucianism"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": -470
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Bhagavad Gita",
+      "author": "Vyasa",
+      "image": "https://i.ibb.co/p4TNKZ7/top-view-beautiful-rpg-still-life-items-1.jpg",
+      "review": "A Hindu scripture that presents a conversation between Prince Arjuna and the god Krishna.",
+      "totalPages": 151,
+      "rating": 4.5,
+      "category": "Religious Text",
+      "tags": ["Hinduism", "Spirituality", "Wisdom"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": -200
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Tao Te Ching",
+      "author": "Laozi",
+      "image": "https://i.ibb.co/RBr7ttg/top-view-beautiful-rpg-still-life-items.jpg",
+      "review": "A fundamental text for both philosophical and religious Taoism.",
+      "totalPages": 89,
+      "rating": 4.3,
+      "category": "Philosophy",
+      "tags": ["Taoism", "Wisdom", "Spirituality"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": -400
+    }
+  ]
+  
